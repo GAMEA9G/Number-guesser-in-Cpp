@@ -6,3 +6,6 @@ this may be complex than you might think it does not ask the number in your mind
 
 ## Usage
 run the main.cpp 
+
+## Experience
+i also made an html file to say my experience creating this
